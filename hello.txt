@@ -2,3 +2,4 @@ hello git
 learning git is fun
 this is the feature branch
 feature update 1
+feature update 2
