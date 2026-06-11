@@ -1,3 +1,8 @@
 hello git
 learning git is fun
+HEAD
 master keeps moving
+this is the feature branch
+feature update 1
+feature update 2
+feature-hello
